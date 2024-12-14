@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\MyNugetPackageSolution\MyNugetPackage\MyNugetPackage\bin\Debug\net8.0\MyNugetPackage.deps.json
+C:\Users\Lenovo\source\repos\MyNugetPackageSolution\MyNugetPackage\MyNugetPackage\bin\Debug\net8.0\MyNugetPackage.dll
+C:\Users\Lenovo\source\repos\MyNugetPackageSolution\MyNugetPackage\MyNugetPackage\bin\Debug\net8.0\MyNugetPackage.pdb
+C:\Users\Lenovo\source\repos\MyNugetPackageSolution\MyNugetPackage\MyNugetPackage\obj\Debug\net8.0\MyNugetPackage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\MyNugetPackageSolution\MyNugetPackage\MyNugetPackage\obj\Debug\net8.0\MyNugetPackage.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\MyNugetPackageSolution\MyNugetPackage\MyNugetPackage\obj\Debug\net8.0\MyNugetPackage.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\MyNugetPackageSolution\MyNugetPackage\MyNugetPackage\obj\Debug\net8.0\MyNugetPackage.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\MyNugetPackageSolution\MyNugetPackage\MyNugetPackage\obj\Debug\net8.0\MyNugetPackage.dll
+C:\Users\Lenovo\source\repos\MyNugetPackageSolution\MyNugetPackage\MyNugetPackage\obj\Debug\net8.0\refint\MyNugetPackage.dll
+C:\Users\Lenovo\source\repos\MyNugetPackageSolution\MyNugetPackage\MyNugetPackage\obj\Debug\net8.0\MyNugetPackage.pdb
+C:\Users\Lenovo\source\repos\MyNugetPackageSolution\MyNugetPackage\MyNugetPackage\obj\Debug\net8.0\ref\MyNugetPackage.dll
